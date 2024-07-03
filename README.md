@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python and related stuff
 - 💞️ I’m looking to collaborate on a real world project
-- 📫 How to reach me fatemehhooshangi@gmail.com
+- 📫 How to reach me fatemehhooshangi79@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
